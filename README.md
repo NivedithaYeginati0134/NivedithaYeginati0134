@@ -1,6 +1,3 @@
-
-
-
 Hello! I'm Niveditha 👩‍💻🌟, a devoted software professional wielding the dual powers of technical prowess and analytical acumen. I am currently pursuing a Masters in Business Analytics and Information Systems at the University of South Florida. 
 I specialize in transforming data into actionable insights and predictive models. 📊🔍
 <p align="center">
