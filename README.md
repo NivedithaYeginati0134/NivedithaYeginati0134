@@ -1,7 +1,8 @@
-Hello! I'm Niveditha 👩‍💻🌟, a passionate data evangelist currently pursuing a Masters in Business Analytics and Information Systems at the University of South Florida. I specialize in transforming data into actionable insights and predictive models. 📊🔍
+Hello! I'm Niveditha 👩‍💻🌟, a passionate data evangelist currently pursuing a Masters in Business Analytics and Information Systems at the University of South Florida. 
+I specialize in transforming data into actionable insights and predictive models. 📊🔍
 
 About Me
-🎓 Education: Masters in Business Analytics and Information Systems, University of South Florida
+🎓 Education: Masters in Business Analytics and Information Systems, University of South Florida.
 📈 Skills: Python, R, Java, SQL, Tableau, Power BI, Machine Learning, and much more.
 🏢 Experience: Data Analyst at Cognizant, Graduate Assistant at USF
 🌐 Connect with me on LinkedIn
