@@ -1,5 +1,4 @@
-Hello! I'm Niveditha 👩‍💻🌟, a devoted software professional wielding the dual powers of technical prowess and analytical acumen. I am currently pursuing a Masters in Business Analytics and Information Systems at the University of South Florida. 
-I specialize in transforming data into actionable insights and predictive models. 📊🔍
+Hello! I'm Niveditha 👩‍💻🌟, a devoted software professional wielding the dual powers of technical prowess and analytical acumen. I am currently working as a Business Intelligence Engineer at Affirmative Technologies. I have a Masters Degree in Business Analytics from University of South Florida (USF). I specialize in transforming data into actionable insights and predictive models. 📊🔍
 <p align="center">
 <img src="nive.gif" alt="Example Image" width="500" height="400">
 </p>
